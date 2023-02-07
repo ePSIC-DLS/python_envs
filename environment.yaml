@@ -1,5 +1,6 @@
 name: py4DSTEM-dev-env
-
+channels:
+  - conda-forge
 dependencies:
   - py4DSTEM=0.13.9
   - hyperspy
