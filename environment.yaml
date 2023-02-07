@@ -1,8 +1,12 @@
-name: py4DSTEM-dev-env
-channels:
-  - conda-forge
+name: machine-learning-env
+
 dependencies:
-  - py4DSTEM=0.13.9
-  - hyperspy
+  - ipython
+  - matplotlib
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+
   
 
